@@ -1,0 +1,6 @@
+{
+"logs_path":"C:\\Users\\Bliven\\{{cookiecutter.project_name}}\\logs",
+"main_project_path":"C:\\Users\\Bliven\\{{cookiecutter.project_name}}",
+"data_path":"C:\\Users\\Bliven\\{{cookiecutter.project_name}}\\data",
+"sqlsvr":"DRIVER={SQL Server};Server=localhost\\SQLEXPRESS;Database=DatabaseName;Trusted_Connection=True;"
+}

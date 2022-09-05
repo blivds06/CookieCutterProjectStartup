@@ -1,0 +1,8 @@
+name: cookiecutterprojectstartup
+dependencies:
+  - python=3.9.*
+  - cookiecutter=1.7.*
+  - pytest
+  - pytest-cookies
+  - ipykernel
+  

@@ -1,0 +1,25 @@
+name: {{cookiecuter.package_name}}
+dependencies:
+  - python
+  - pip
+  - joblib
+  - jupyterlab
+  - ipykernel
+  - openpyxl
+  - pandas
+  - pandas-profiling
+  - pyarrow
+  - pyodbc
+  - sqlalchemy
+  - scikit-learn
+  - tqdm
+  - coverage
+  - pytest
+  - isrot
+  - black
+  - flake8
+  - mypy
+  - pep8-naming
+  - pydocstyle
+  - pip:
+    - --editable .
