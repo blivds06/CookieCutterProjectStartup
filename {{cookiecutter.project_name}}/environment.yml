@@ -15,7 +15,7 @@ dependencies:
   - tqdm
   - coverage
   - pytest
-  - isrot
+  - isort
   - black
   - flake8
   - mypy
