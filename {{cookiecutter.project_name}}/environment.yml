@@ -21,3 +21,4 @@ dependencies:
   - mypy
   - pep8-naming
   - pydocstyle
+  - yaml
